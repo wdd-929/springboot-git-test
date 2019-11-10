@@ -11,6 +11,7 @@ public class SpringbootGitTestApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("1111");
     }
 
 }
